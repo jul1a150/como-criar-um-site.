@@ -1,11 +1,11 @@
-cabeçalho
-header{
-    background-color:#FF9E9E;
-    padding: 0px;
-    margin: 0px;
-    height: 250px;
-    background;
-    display:flex;
-    align-items: center;
-    justify-content: space-between;
-}
+.cabeçalho
+    header{ 
+        background-color: #ff9E9E;
+        padding: 0px;
+        margin: 0px;
+        height: 250px;
+        background;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
