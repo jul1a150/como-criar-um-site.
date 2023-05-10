@@ -9,3 +9,7 @@
         align-items: center;
         justify-content: space-between;
     }
+    .titulo-corpo{
+        display: flex;
+        justify-content:center;
+        }
