@@ -19,7 +19,7 @@
             text-align: center;
             font-size: 27px;
             justify-content: space-around;
-        }
+    }
 
      .body{
         margin: 0;
@@ -40,10 +40,22 @@
         width: 300px;
         top: 17px;
     }
+
     .imagem-cabeçalho-2 {
         height: 170px;
         justify-content: space-around;
         left: 1110;
         width: 300px;
         top: 17px;
+    }
+    .titulo-cabeçalho{
+        font-size: 48px;
+        font-family:'Bree Serif';
+        font-style: normal;
+        font-weight: 400;
+        line-height: 65px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        position: absolute;
     }
