@@ -6,7 +6,8 @@ body{
     font-family: 'Bree Serif', serif;
     }
     
-    .cabeçalho font-family:'EB Garamond', serif;{
+    .cabeçalho{
+        font-family:'EB Garamond', serif;
     margin: 0px;
     padding: 0px;
     background-color: #FF9E9E;
